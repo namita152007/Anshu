@@ -1,0 +1,125 @@
+#nav{
+    background-image:linear-gradient(45deg,rgb(100, 5, 36),rgb(57, 4, 68),rgb(97, 7, 97),rgb(116, 13, 116),rgb(150, 46, 150),rgb(126, 15, 76),rgb(180, 12, 96),rgb(167, 10, 114),rgb(68, 5, 170),rgb(33, 6, 153),rgb(46, 9, 179),rgb(9, 58, 165),rgb(21, 108, 238),rgb(17, 97, 216),rgb(12, 149, 190),rgb(10, 190, 245),rgb(13, 216, 216),rgb(14, 211, 185),rgb(97, 196, 235),rgb(134, 235, 248),rgb(16, 126, 170),white);
+    position: absolute;
+    top:10px;
+    left:0px;
+    height:100px;
+    width:968.5px;
+}
+#ssc{
+    position:absolute;
+    top: 25px;
+    left:140px;
+    height:60px;
+    width:170px;
+    font-family:cursive;
+    font-size:20px;
+    border-width: 0px;
+    border-radius:30px;
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+}
+#evs{
+    position:absolute;
+    top: 35px;
+    left:10px;
+    height:40px;
+    width:170px;
+    font-family:cursive;
+    font-size:20px;
+    border-width: 0px;
+    border-radius:30px;
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+}
+#e{
+    text-decoration:none;
+    color:white;
+    background-color:transparent
+}
+#s{
+    text-decoration:none;
+    color:white;
+    background-color:transparent
+}
+#m{
+    text-decoration:none;
+    color:white;
+    background-color:transparent
+}
+#h{
+    text-decoration:none;
+    color:white;
+    background-color:transparent
+}
+#en{
+    text-decoration:none;
+    color:white;
+    background-color:transparent
+}
+#i{
+    text-decoration:none;
+    color:white;
+    background-color:transparent
+}
+#maths{
+    position:absolute;
+    top: 35px;
+    left:330px;
+    height:40px;
+    width:170px;
+    font-family:cursive;
+    font-size:20px;
+    border-width: 0px;
+    border-radius:30px;
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+}
+#hindi{
+    position:absolute;
+    top: 35px;
+    left:505px;
+    height:40px;
+    width:100px;
+    font-family:cursive;
+    font-size:20px;
+    border-width: 0px;
+    border-radius:30px;
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+}
+#english{
+    position:absolute;
+    top: 35px;
+    left:615px;
+    height:40px;
+    width:120px;
+    font-family:cursive;
+    font-size:20px;
+    border-width: 0px;
+    border-radius:30px;
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+}
+#it{
+    position:absolute;
+    top:10px;
+    left:740px;
+    height:80px;
+    width:170px;
+    font-family:cursive;
+    font-size:20px;
+    border-width: 0px;
+    border-radius:30px;
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+}
+body{
+    background-image:linear-gradient(to left,white,rgb(236, 91, 23),rgb(199, 48, 11),rgb(209, 78, 17),rgb(209, 88, 7),rgb(218, 148, 18),rgb(211, 180, 7),rgb(217, 235, 60),rgb(170, 238, 13),rgb(133, 179, 9),rgb(105, 189, 9),rgb(54, 112, 6),rgb(33, 107, 10),rgb(2, 66, 13),rgb(8, 209, 75),rgb(11, 182, 111),rgb(11, 182, 168),rgb(13, 186, 216),rgb(7, 119, 134),rgb(12, 95, 163),rgb(11, 57, 182),rgb(4, 47, 138),rgb(15, 4, 80),rgb(97, 21, 197),rgb(120, 11, 192),rgb(122, 7, 113),rgb(172, 9, 172),rgb(75, 2, 75),rgb(236, 7, 168),rgb(197, 11, 151),rgb(151, 11, 104),rgb(126, 10, 58),rgb(73, 4, 33),rgb(15, 1, 4));
+}

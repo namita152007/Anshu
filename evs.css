@@ -1,0 +1,48 @@
+#background{
+    background-image:url("1691153848248.jpg");
+    background-size:cover;
+    height:500px;
+    width:940px;
+}
+.question{
+    color:black;
+}
+.answer{
+    color:blue;
+}
+.hr1{
+    position:relative;
+    top:-9px;
+    left:-320px;
+    width:210px;
+}
+.p2{
+    position: relative;
+    top:-25px;
+    left:65px;
+}
+.hr2{
+    position:relative;
+    top:-9px;
+    left:-400px;
+    width:65px;
+}
+.p3{
+    position: relative;
+    top:-25px;
+    left:20px;
+}
+.hr3{
+    position:relative;
+    top:-9px;
+    left:-420px;
+    width:30px;
+}
+.p4{
+    position: relative;
+    top:-25px;
+    left:19px;
+}
+*{
+    font-size:20px;
+}
